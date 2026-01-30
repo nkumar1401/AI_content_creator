@@ -1,0 +1,48 @@
+{
+  "basic_info": {
+    "your_name": "Nirmal kumar bhagatkar",
+    "phone": "+91-7276577331",
+    "email": "nkbhagatkar@gmail.com",
+    "linkedin": "www.linkedin.com/in/nirmal-kumar-bhagatkar",
+    "github": "github.com/nkumar1401",
+    "location": "Pune, Maharashtra, India"
+  },
+  "education": {
+    "certification": "GUVI AI/ML Certification",
+    "status": "Completed"
+  },
+  "key_projects": [
+    {
+      "name": "RecycleVision",
+      "description": "An AI-powered application that identifies recyclable materials using computer vision.",
+      "tech": [
+        "Python",
+        "TensorFlow",
+        "OpenCV",
+        "efficientnet",
+        "mobilenetv2",
+        "resnnet50"
+      ],
+      "result": "Achieved X% accuracy",
+      "link": "github.com/nkumar1401/yourproject"
+    }
+  ],
+  "skills": {
+    "programming": [
+      "Python",
+      "SQL"
+    ],
+    "ml_frameworks": [
+      "TensorFlow",
+      "Scikit-learn"
+    ],
+    "tools": [
+      "Git",
+      "Jupyter"
+    ],
+    "specializations": [
+      "NLP",
+      "Computer Vision"
+    ]
+  }
+}

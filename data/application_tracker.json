@@ -1,0 +1,11 @@
+{
+  "applications": [],
+  "template": {
+    "date": "YYYY-MM-DD",
+    "company": "",
+    "role": "",
+    "recruiter": "",
+    "status": "Applied",
+    "next_action": ""
+  }
+}

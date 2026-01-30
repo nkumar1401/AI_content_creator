@@ -1,0 +1,94 @@
+
+=== EMAIL CUSTOMIZATION GUIDE ===
+
+CRITICAL PERSONALIZATION POINTS:
+
+1. SUBJECT LINE:
+   ❌ Generic: "Application for ML Engineer role"
+   ✅ Specific: "Application for ML Engineer - Built similar recommendation system"
+   
+2. OPENING:
+   ❌ Generic: "I'm writing to apply for..."
+   ✅ Specific: "I noticed your team recently launched [X]. As someone who built [similar Y]..."
+
+3. WHY THIS COMPANY:
+   Research and mention:
+   - Recent product launch
+   - Company blog post you read
+   - Their AI/ML tech stack
+   - Their mission/values
+   
+   ❌ "I admire your company"
+   ✅ "Your recent work on [specific project] using [specific tech] aligns with my experience in..."
+
+4. WHY YOU:
+   Link your projects to their needs:
+   ❌ "I built a chatbot"
+   ✅ "I built a customer service chatbot that reduced response time by 60% - similar to the challenge mentioned in your job post"
+
+5. CALL TO ACTION:
+   ❌ "I look forward to hearing from you"
+   ✅ "Would you have 15 minutes this week to discuss how I can contribute to [specific team/project]?"
+
+6. PROOF POINTS:
+   Always include:
+   - Specific numbers (accuracy %, time saved, users impacted)
+   - Technologies used
+   - Link to live demo or GitHub
+   - LinkedIn post with engagement metrics
+
+RESEARCH CHECKLIST (5 minutes per company):
+[ ] Company's latest AI/ML project
+[ ] Recent LinkedIn posts from the company
+[ ] Recruiter's recent posts/interests
+[ ] Job posting specific requirements
+[ ] Common connections
+[ ] Company's tech blog posts
+[ ] Recent news about the company
+
+EMAIL SENDING STRATEGY:
+
+BEST TIMES TO SEND (IST):
+- Tuesday-Thursday: 9-11 AM (they check morning emails)
+- Tuesday-Thursday: 2-4 PM (after lunch)
+- Avoid: Monday (too busy), Friday (weekend mode), Weekends
+
+SUBJECT LINE FORMULAS:
+1. "Application for [Role] - [Your Unique Value]"
+2. "[Specific Skill] Engineer with [X] Projects - Applying for [Role]"
+3. "Re: [Job Post ID/Title] - [Your Name]"
+4. "[Recruiter Name] - [Your Unique Hook] for [Role]"
+
+FOLLOW-UP TIMELINE:
+Day 0: Send initial email
+Day 3: Connection request on LinkedIn (if not connected)
+Day 7: First follow-up email
+Day 14: Second follow-up email
+Day 21: Final follow-up or move on
+
+LENGTH:
+- Connection message: 50-75 words
+- Cold email: 150-250 words (recruiters are busy!)
+- Follow-up: 75-100 words
+
+TONE:
+✅ Professional but conversational
+✅ Enthusiastic but not desperate
+✅ Confident but humble
+✅ Direct but polite
+
+AVOID:
+❌ Spelling/grammar errors (use Grammarly)
+❌ Generic templates that look copy-pasted
+❌ Mentioning salary in first email
+❌ Being too casual or too formal
+❌ Long paragraphs (use bullet points)
+❌ Attachments in cold emails (mention "resume available on request")
+
+POWER WORDS TO USE:
+• "Built" (not "worked on")
+• "Achieved" (not "responsible for")
+• "Contributed" (not "participated in")
+• "Optimized" (not "improved")
+• "Launched" (not "completed")
+        

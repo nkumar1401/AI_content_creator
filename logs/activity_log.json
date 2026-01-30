@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2026-01-29",
+    "day": "Thursday",
+    "status": "prep_completed",
+    "timestamp": "2026-01-29T19:20:05.384760"
+  },
+  {
+    "date": "2026-01-30",
+    "day": "Friday",
+    "status": "prep_completed",
+    "timestamp": "2026-01-30T10:41:01.795748"
+  },
+  {
+    "date": "2026-01-30",
+    "day": "Friday",
+    "status": "prep_completed",
+    "timestamp": "2026-01-30T11:00:47.701943"
+  },
+  {
+    "date": "2026-01-30",
+    "day": "Friday",
+    "status": "prep_completed",
+    "timestamp": "2026-01-30T11:29:04.004270"
+  }
+]

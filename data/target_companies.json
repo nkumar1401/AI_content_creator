@@ -1,0 +1,36 @@
+{
+  "tier_1_global": [
+    "Google",
+    "Microsoft",
+    "Amazon",
+    "Meta",
+    "Apple",
+    "OpenAI",
+    "Anthropic",
+    "NVIDIA"
+  ],
+  "tier_1_india": [
+    "Flipkart",
+    "Swiggy",
+    "PhonePe",
+    "Razorpay",
+    "CRED",
+    "Ola",
+    "Paytm",
+    "Zomato"
+  ],
+  "ai_startups": [
+    "Hugging Face",
+    "Cohere",
+    "Stability AI",
+    "Sarvam AI",
+    "Krutrim",
+    "Yellow.ai"
+  ],
+  "consulting_india": [
+    "Fractal Analytics",
+    "LatentView",
+    "Tiger Analytics",
+    "Mu Sigma"
+  ]
+}

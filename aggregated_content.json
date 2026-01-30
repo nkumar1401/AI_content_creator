@@ -1,0 +1,1364 @@
+{
+  "youtube": {
+    "Two Minute Papers": [
+      {
+        "title": "This Broke My Brain - These Humans Aren’t Real",
+        "link": "https://www.youtube.com/watch?v=opghSX24clM",
+        "summary": "No summary available",
+        "published": "2026-01-29T12:50:51+00:00"
+      },
+      {
+        "title": "They Said It Was Impossible… This Simulation Solved It",
+        "link": "https://www.youtube.com/watch?v=9Mcv9vpGW5Q",
+        "summary": "No summary available",
+        "published": "2026-01-28T14:50:17+00:00"
+      },
+      {
+        "title": "This Fluid Simulation Should Not Be Possible",
+        "link": "https://www.youtube.com/watch?v=O7q52WxYZN8",
+        "summary": "No summary available",
+        "published": "2026-01-23T14:55:27+00:00"
+      },
+      {
+        "title": "The Secret Equation Behind Hyper-Realistic Clothing",
+        "link": "https://www.youtube.com/watch?v=Wibbnn3hV4U",
+        "summary": "No summary available",
+        "published": "2026-01-23T14:55:57+00:00"
+      },
+      {
+        "title": "This New Physics Engine Is 45x Faster!",
+        "link": "https://www.youtube.com/watch?v=2c8o65JiPQY",
+        "summary": "No summary available",
+        "published": "2026-01-10T09:52:58+00:00"
+      },
+      {
+        "title": "We Just Turned Down Millions of Dollars. Here Is Why.",
+        "link": "https://www.youtube.com/watch?v=SWGBN1KvG6c",
+        "summary": "No summary available",
+        "published": "2026-01-23T14:56:13+00:00"
+      },
+      {
+        "title": "The Bug That Ruined Game Physics For Decades",
+        "link": "https://www.youtube.com/watch?v=wp8d24NkOjI",
+        "summary": "No summary available",
+        "published": "2026-01-07T06:40:49+00:00"
+      },
+      {
+        "title": "NVIDIA’s AI Finally Solved Walking In Games",
+        "link": "https://www.youtube.com/watch?v=_uo7CXd33Uc",
+        "summary": "No summary available",
+        "published": "2026-01-07T06:40:54+00:00"
+      },
+      {
+        "title": "Game Physics Just Jumped A Generation",
+        "link": "https://www.youtube.com/watch?v=oToAGiozQF8",
+        "summary": "No summary available",
+        "published": "2025-12-18T13:29:12+00:00"
+      },
+      {
+        "title": "Researchers Built a Tiny Economy. AIs Broke It Immediately",
+        "link": "https://www.youtube.com/watch?v=KUekLTqV1ME",
+        "summary": "No summary available",
+        "published": "2025-12-14T17:00:06+00:00"
+      }
+    ],
+    "Yannic Kilcher": [
+      {
+        "title": "Traditional X-Mas Stream",
+        "link": "https://www.youtube.com/watch?v=Dr6jw-WAd9E",
+        "summary": "No summary available",
+        "published": "2026-01-28T18:26:24+00:00"
+      },
+      {
+        "title": "Traditional Holiday Live Stream",
+        "link": "https://www.youtube.com/watch?v=DNajvkqfobY",
+        "summary": "No summary available",
+        "published": "2025-12-29T07:31:03+00:00"
+      },
+      {
+        "title": "TiDAR: Think in Diffusion, Talk in Autoregression (Paper Analysis)",
+        "link": "https://www.youtube.com/watch?v=taCVT5vDAk0",
+        "summary": "No summary available",
+        "published": "2025-12-28T06:48:16+00:00"
+      },
+      {
+        "title": "Titans: Learning to Memorize at Test Time (Paper Analysis)",
+        "link": "https://www.youtube.com/watch?v=v67plFw1nMw",
+        "summary": "No summary available",
+        "published": "2025-12-15T14:36:14+00:00"
+      },
+      {
+        "title": "[Paper Analysis] The Free Transformer (and some Variational Autoencoder stuff)",
+        "link": "https://www.youtube.com/watch?v=Nao16-6l6dQ",
+        "summary": "No summary available",
+        "published": "2025-11-02T07:32:08+00:00"
+      },
+      {
+        "title": "[Video Response] What Cloudflare's code mode misses about MCP and tool calling",
+        "link": "https://www.youtube.com/watch?v=0bpYCxv2qhw",
+        "summary": "No summary available",
+        "published": "2026-01-05T16:12:05+00:00"
+      },
+      {
+        "title": "[Paper Analysis] On the Theoretical Limitations of Embedding-Based Retrieval (Warning: Rant)",
+        "link": "https://www.youtube.com/watch?v=zKohTkN0Fyk",
+        "summary": "No summary available",
+        "published": "2025-10-12T06:40:24+00:00"
+      },
+      {
+        "title": "AGI is not coming!",
+        "link": "https://www.youtube.com/watch?v=hkAH7-u7t5k",
+        "summary": "No summary available",
+        "published": "2025-12-15T05:15:53+00:00"
+      },
+      {
+        "title": "Context Rot: How Increasing Input Tokens Impacts LLM Performance (Paper Analysis)",
+        "link": "https://www.youtube.com/watch?v=hpC4qjWu_aY",
+        "summary": "No summary available",
+        "published": "2025-07-26T00:17:03+00:00"
+      },
+      {
+        "title": "Energy-Based Transformers are Scalable Learners and Thinkers (Paper Review)",
+        "link": "https://www.youtube.com/watch?v=RAEy3JZmIaA",
+        "summary": "No summary available",
+        "published": "2026-01-17T18:45:18+00:00"
+      }
+    ],
+    "AI Explained": [
+      {
+        "title": "Claude AI Co-founder Publishes 4 Big Claims about Near Future: Breakdown",
+        "link": "https://www.youtube.com/watch?v=Iar4yweKGoI",
+        "summary": "No summary available",
+        "published": "2026-01-29T08:18:38+00:00"
+      },
+      {
+        "title": "Anthropic: Our AI just created a tool that can ‘automate all white collar work’, Me:",
+        "link": "https://www.youtube.com/watch?v=wYs6HWZ2FdM",
+        "summary": "No summary available",
+        "published": "2026-01-23T14:55:58+00:00"
+      },
+      {
+        "title": "What the Freakiness of 2025 in AI Tells Us About 2026",
+        "link": "https://www.youtube.com/watch?v=FMMpUO1uAYk",
+        "summary": "No summary available",
+        "published": "2025-12-24T06:57:13+00:00"
+      },
+      {
+        "title": "Gemini Exponential, Demis Hassabis' ‘Proto-AGI’ coming, but …",
+        "link": "https://www.youtube.com/watch?v=WHqaF4jbUYU",
+        "summary": "No summary available",
+        "published": "2025-12-20T09:40:52+00:00"
+      },
+      {
+        "title": "GPT 5.2: OpenAI Strikes Back",
+        "link": "https://www.youtube.com/watch?v=4p73Uu_jZ10",
+        "summary": "No summary available",
+        "published": "2025-12-26T20:05:06+00:00"
+      },
+      {
+        "title": "You Are Being Told Contradictory Things About AI",
+        "link": "https://www.youtube.com/watch?v=iO844izo9kw",
+        "summary": "No summary available",
+        "published": "2025-12-06T17:49:36+00:00"
+      },
+      {
+        "title": "Nano Banana Pro: But Did You Catch These 10 Details?",
+        "link": "https://www.youtube.com/watch?v=9hv4nr_46Ao",
+        "summary": "No summary available",
+        "published": "2025-12-11T21:59:53+00:00"
+      },
+      {
+        "title": "Gemini 3 Pro: Breakdown",
+        "link": "https://www.youtube.com/watch?v=chr2I7CZTfk",
+        "summary": "No summary available",
+        "published": "2025-11-25T21:28:32+00:00"
+      },
+      {
+        "title": "Is GPT-5.1 Really an Upgrade? But Models Can Auto-Hack Govts, so … there’s that",
+        "link": "https://www.youtube.com/watch?v=8eqdMpCz9tc",
+        "summary": "No summary available",
+        "published": "2025-11-16T20:34:12+00:00"
+      },
+      {
+        "title": "Bubble or No Bubble, AI Keeps Progressing (ft. Relentless Learning + Introspection)",
+        "link": "https://www.youtube.com/watch?v=Dl3Olh29_nY",
+        "summary": "No summary available",
+        "published": "2025-11-12T09:13:24+00:00"
+      }
+    ],
+    "Sentdex": [
+      {
+        "title": "Training a Unitree G1 to Walk w/ Reinforcement Learning",
+        "link": "https://www.youtube.com/watch?v=FGnAeUXRZ4E",
+        "summary": "No summary available",
+        "published": "2025-12-30T05:37:46+00:00"
+      },
+      {
+        "title": "Unitree G1 Security Disaster",
+        "link": "https://www.youtube.com/watch?v=Ah0-l0HZwLA",
+        "summary": "No summary available",
+        "published": "2025-10-02T08:54:42+00:00"
+      },
+      {
+        "title": "Testing VLMs and LLMs for robotics w/ the Jetson Thor devkit",
+        "link": "https://www.youtube.com/watch?v=eRPSRSGiAA8",
+        "summary": "No summary available",
+        "published": "2025-09-03T07:14:13+00:00"
+      },
+      {
+        "title": "Reinforcement learning with Unitree G1 humanoid - Dev w/ G1 P.5",
+        "link": "https://www.youtube.com/watch?v=wiIUF9pIDYw",
+        "summary": "No summary available",
+        "published": "2025-07-27T07:52:45+00:00"
+      },
+      {
+        "title": "A bigger brain for the Unitree G1- Dev w/ G1 Humanoid P.4",
+        "link": "https://www.youtube.com/watch?v=cmnJhOWp2z4",
+        "summary": "No summary available",
+        "published": "2025-06-14T10:18:30+00:00"
+      },
+      {
+        "title": "Unitree G1 - Moving the arms/hands - Dev w/ G1 Humanoid P.3",
+        "link": "https://www.youtube.com/watch?v=Uc1nhT8beTU",
+        "summary": "No summary available",
+        "published": "2025-06-12T06:52:12+00:00"
+      },
+      {
+        "title": "Unitree G1 LiDAR, SLAM, navigation and control. Dev w/ G1 Humanoid P.2",
+        "link": "https://www.youtube.com/watch?v=sJYlJlIEBpg",
+        "summary": "No summary available",
+        "published": "2025-06-14T00:58:06+00:00"
+      },
+      {
+        "title": "Unboxing the Unitree G1 Edu Humanoid",
+        "link": "https://www.youtube.com/watch?v=pPTo62O__CU",
+        "summary": "No summary available",
+        "published": "2025-06-10T17:02:04+00:00"
+      },
+      {
+        "title": "Vibe Coding a Robotic Hand to Crawl (Inspire RH56DFQ)",
+        "link": "https://www.youtube.com/watch?v=57cPmzwCqd4",
+        "summary": "No summary available",
+        "published": "2026-01-23T13:25:27+00:00"
+      },
+      {
+        "title": "Vibe Coding Robot Hands w/ Cursor (Inspire RH56DFQ-2L/R)",
+        "link": "https://www.youtube.com/watch?v=MeHWIXLV3Zo",
+        "summary": "No summary available",
+        "published": "2026-01-26T14:06:53+00:00"
+      }
+    ],
+    "3Blue1Brown": [
+      {
+        "title": "The ladybug clock puzzle",
+        "link": "https://www.youtube.com/shorts/t3jZ2xGOvYg",
+        "summary": "No summary available",
+        "published": "2026-01-23T06:37:45+00:00"
+      },
+      {
+        "title": "Why Laplace transforms are so useful",
+        "link": "https://www.youtube.com/watch?v=FE-hM1kRK4Y",
+        "summary": "No summary available",
+        "published": "2026-01-23T14:55:44+00:00"
+      },
+      {
+        "title": "The dynamics of e^(πi)",
+        "link": "https://www.youtube.com/shorts/bnjKwiUg-kw",
+        "summary": "No summary available",
+        "published": "2025-10-13T06:30:58+00:00"
+      },
+      {
+        "title": "But what is a Laplace Transform?",
+        "link": "https://www.youtube.com/watch?v=j0wJBEZdwLs",
+        "summary": "No summary available",
+        "published": "2026-01-23T14:55:57+00:00"
+      },
+      {
+        "title": "The Physics of Euler's Formula | Laplace Transform Prelude",
+        "link": "https://www.youtube.com/watch?v=-j8PzkZ70Lg",
+        "summary": "No summary available",
+        "published": "2026-01-23T14:56:07+00:00"
+      },
+      {
+        "title": "What was Euclid really doing? | Guest video by Ben Syversen",
+        "link": "https://www.youtube.com/watch?v=M-MgQC6z3VU",
+        "summary": "No summary available",
+        "published": "2026-01-23T14:55:26+00:00"
+      },
+      {
+        "title": "Incomplete open cubes",
+        "link": "https://www.youtube.com/shorts/1lZpowy21Gc",
+        "summary": "No summary available",
+        "published": "2025-09-10T01:08:07+00:00"
+      },
+      {
+        "title": "Exploration & Epiphany | Guest video by Paul Dancstep",
+        "link": "https://www.youtube.com/watch?v=_BrFKp-U8GI",
+        "summary": "No summary available",
+        "published": "2025-10-12T12:18:29+00:00"
+      },
+      {
+        "title": "Simulating and understanding phase change | Guest video by Vilas Winstein",
+        "link": "https://www.youtube.com/watch?v=itRV2jEtV8Q",
+        "summary": "No summary available",
+        "published": "2025-10-09T02:44:02+00:00"
+      },
+      {
+        "title": "How AI connects text and images",
+        "link": "https://www.youtube.com/shorts/j5h9dBtWZXM",
+        "summary": "No summary available",
+        "published": "2025-08-23T14:23:45+00:00"
+      }
+    ],
+    "Andrej Karpathy": []
+  },
+  "reddit": {
+    "r/MachineLearning": [
+      {
+        "title": "[D] Self-Promotion Thread",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1q1nko4/d_selfpromotion_thread/",
+        "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link shorteners, link aggregator websites , or auto-subscribe links. -- Any abuse of trust will lead to ",
+        "published": "2026-01-02T03:15:32+00:00"
+      },
+      {
+        "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1q02m19/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+        "summary": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For Those looking for jobs please use this template Want to be Hired: [Location], Salary Expectation:[], [Remote | Relocati",
+        "published": "2025-12-31T03:30:29+00:00"
+      },
+      {
+        "title": "[R] AlphaGenome: DeepMind's unified DNA sequence model predicts regulatory variant effects across 11 modalities at single-bp resolution (Nature 2026)",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1qq4lnc/r_alphagenome_deepminds_unified_dna_sequence/",
+        "summary": "Key results: - Takes 1M base pairs of DNA as input, predicts thousands of functional genomic tracks at single-base-pair resolution - Matches or exceeds best specialized models in 25 of 26 variant effect prediction evaluations - U-Net backbone with CNN + transformer layers, trained on human and mouse",
+        "published": "2026-01-29T10:02:41+00:00"
+      },
+      {
+        "title": "[D]How to understand real problems + data in climate/health AI before choosing a lane?",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1qqpgkm/dhow_to_understand_real_problems_data_in/",
+        "summary": "I’m a data scientist with experience in demand forecasting (operations / supply chain). I’m starting a more advanced deep learning class and I’m hoping to pivot toward more frontier-oriented work other fields: climate/environment, multimodal ML, and human health (wearables/digital biomarkers, biotec",
+        "published": "2026-01-29T23:58:33+00:00"
+      },
+      {
+        "title": "[P] VideoHighlighter",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1qqfl8x/p_videohighlighter/",
+        "summary": "So here is free tool for creating highlights based on Scenes using OpenCV. Motion peaks and scene changes. Objects (YOLO) Actions (Intel Action Recognition) Audio peaks. - Also creates .srt subtitles based on Transcript if somebody wants to try it out for their use cases / understand how to adjust m",
+        "published": "2026-01-29T17:49:28+00:00"
+      },
+      {
+        "title": "[R] Knowledge Graphs are Implicit Reward Models: Path-Derived Signals Enable Compositional Reasoning --- Our paper on using Knowledge Graphs as a scalable reward model to enable compositional reasoning",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1qq4sn4/r_knowledge_graphs_are_implicit_reward_models/",
+        "summary": "Compositional reasoning is an important frontier for truly intelligent systems. While brute-force scaling has brought us far, the next leap in AI will come from models that don't just memorize, but compose their existing knowledge to solve novel, complex problems! I am incredibly excited to share ou",
+        "published": "2026-01-29T10:13:59+00:00"
+      },
+      {
+        "title": "[R] Benchmarking Reward Hack Detection in Code Environments via Contrastive Analysis",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1qqhqi2/r_benchmarking_reward_hack_detection_in_code/",
+        "summary": "{\"document\":[{\"e\":\"par\",\"c\":[{\"e\":\"text\",\"t\":\"Recent advances in reinforcement learning for code generation have made robust environments essential to prevent reward hacking. As LLMs increasingly serve as evaluators in code-based RL, their ability to detect reward hacking remains understudied. In th",
+        "published": "2026-01-29T19:04:32+00:00"
+      },
+      {
+        "title": "[D] ICML submission policy type",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1qq3rzb/d_icml_submission_policy_type/",
+        "summary": "ICML 2026 will follow a two-policy framework for the use of large language models (LLMs) in reviewing, based on the following two policies: Policy A (Conservative): Use of LLMs for reviewing is strictly prohibited. Policy B (Permissive): Allowed: Use of LLMs to help understand the paper and related ",
+        "published": "2026-01-29T09:12:32+00:00"
+      },
+      {
+        "title": "[R] We open-sourced FASHN VTON v1.5: a pixel-space, maskless virtual try-on model trained from scratch (972M params, Apache-2.0)",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1qpc4ap/r_we_opensourced_fashn_vton_v15_a_pixelspace/",
+        "summary": "We just open-sourced FASHN VTON v1.5, a virtual try-on model that generates photorealistic images of people wearing garments directly in pixel space. We trained this from scratch (not fine-tuned from an existing diffusion model), and have been running it as an API for the past year. Now we're releas",
+        "published": "2026-01-28T14:00:33+00:00"
+      },
+      {
+        "title": "[D] Lessons learned when trying to rely on G-CTR-style guarantees in practice",
+        "link": "https://www.reddit.com/r/MachineLearning/comments/1qq0xcl/d_lessons_learned_when_trying_to_rely_on/",
+        "summary": "Following up on earlier discussions around AI evals and static guarantees. In some recent work, we looked at G-CTR-style approaches and tried to understand where they actually help in practice — and where they quietly fail. A few takeaways that surprised us: - static guarantees can look strong while",
+        "published": "2026-01-29T06:23:56+00:00"
+      }
+    ],
+    "r/artificial": [
+      {
+        "title": "This week, a new generative AI tool from Google let us create knockoffs of 3D Nintendo worlds",
+        "link": "https://www.reddit.com/r/artificial/comments/1qqkj6k/this_week_a_new_generative_ai_tool_from_google/",
+        "summary": "submitted by /u/theverge [link] [comments]",
+        "published": "2026-01-29T20:46:27+00:00"
+      },
+      {
+        "title": "Moltbot is exploding. 100K Github Stars in weeks. But what can we actually do with it, and why so much hype? And how to avoid the security concerns?",
+        "link": "https://www.reddit.com/r/artificial/comments/1qqdmoq/moltbot_is_exploding_100k_github_stars_in_weeks/",
+        "summary": "Hey everyone. I Just published a breakdown on Moltbot: the self-hosted, open-source personal AI assistant that's gone massively viral. The article discusses the main points of my own questions about Moltbot ( what it really is, what are its capabilities, why is therean insane growth... ). Ok, now th",
+        "published": "2026-01-29T16:40:12+00:00"
+      },
+      {
+        "title": "How we built blind accessible AI and hands free AI in one day",
+        "link": "https://www.reddit.com/r/artificial/comments/1qqv6oi/how_we_built_blind_accessible_ai_and_hands_free/",
+        "summary": "We built hands free and blind accessible AI in one day. We went further and made continuous conversations for hands free users, so you just keep talking and it replies. This allows a really easy to use experience that we are proud to share with everyone. submitted by /u/Budget_Caramel8903 [link] [co",
+        "published": "2026-01-30T04:12:03+00:00"
+      },
+      {
+        "title": "One-Minute Daily AI News 1/29/2026",
+        "link": "https://www.reddit.com/r/artificial/comments/1qqwxx1/oneminute_daily_ai_news_1292026/",
+        "summary": "Apple buys Israeli startup Q.ai as the AI race heats up.[1] Elon Musk’s SpaceX, Tesla, and xAI in talks to merge, according to reports.[2] Ant Group Releases LingBot-VLA, A Vision Language Action Foundation Model For Real World Robot Manipulation.[3] Google DeepMind’s Project Genie Lets You Walk, Fl",
+        "published": "2026-01-30T05:39:25+00:00"
+      },
+      {
+        "title": "Amazon in Talks to Invest Up to $50 Billion in OpenAI",
+        "link": "https://www.reddit.com/r/artificial/comments/1qqtjv8/amazon_in_talks_to_invest_up_to_50_billion_in/",
+        "summary": "submitted by /u/i-drake [link] [comments]",
+        "published": "2026-01-30T02:55:47+00:00"
+      },
+      {
+        "title": "The Two Agentic Loops: How to Design and Scale Agentic Apps",
+        "link": "https://www.reddit.com/r/artificial/comments/1qqn3x4/the_two_agentic_loops_how_to_design_and_scale/",
+        "summary": "submitted by /u/AdditionalWeb107 [link] [comments]",
+        "published": "2026-01-29T22:23:32+00:00"
+      },
+      {
+        "title": "Judgment Is the Last Non-Automatable Skill",
+        "link": "https://www.reddit.com/r/artificial/comments/1qq79qc/judgment_is_the_last_nonautomatable_skill/",
+        "summary": "A lot of the discussion around AI right now focuses on code generation: how far it can go, how fast it’s improving, and whether software engineering as a profession is at risk. Here’s how I currently see it. Modern AI systems are extremely good at automation. Given a context and a set of assumptions",
+        "published": "2026-01-29T12:30:14+00:00"
+      },
+      {
+        "title": "How do you measure AI adoption in your teams?",
+        "link": "https://www.reddit.com/r/artificial/comments/1qqpkhx/how_do_you_measure_ai_adoption_in_your_teams/",
+        "summary": "I lead Product and Design Teams at FAANG - How do you measure AI adoption and make sure you are progressing. To me it feels like who ever adopts AI better is going to have a better team ultimately. submitted by /u/jones_dr [link] [comments]",
+        "published": "2026-01-30T00:02:47+00:00"
+      },
+      {
+        "title": "The Big Flop: Defining Cult Classics and Using AI to Predict the Next Ones",
+        "link": "https://www.reddit.com/r/artificial/comments/1qqexs1/the_big_flop_defining_cult_classics_and_using_ai/",
+        "summary": "We're excited to share our latest podcast episode, where we talk about why some of the best movies fail at the box office only to become cult classics a decade later and whether AI can actually predict the next underground masterpiece by looking at real-time sentiment analysis and \"memeable density\"",
+        "published": "2026-01-29T17:26:32+00:00"
+      },
+      {
+        "title": "One-Minute Daily AI News 1/28/2026",
+        "link": "https://www.reddit.com/r/artificial/comments/1qq00z6/oneminute_daily_ai_news_1282026/",
+        "summary": "Amazon is laying off 16,000 employees as AI battle intensifies.[1] Google adds Gemini AI-powered ‘auto browse’ to Chrome.[2] AI tool AlphaGenome predicts how one typo can change a genetic story.[3] Alibaba Introduces Qwen3-Max-Thinking, a Test Time Scaled Reasoning Model with Native Tool Use Powerin",
+        "published": "2026-01-29T05:36:48+00:00"
+      }
+    ],
+    "r/LocalLLaMA": [
+      {
+        "title": "AMA With Kimi, The Open-source Frontier Lab Behind Kimi K2.5 Model",
+        "link": "https://www.reddit.com/r/LocalLLaMA/comments/1qpewj7/ama_with_kimi_the_opensource_frontier_lab_behind/",
+        "summary": "Hi r/LocalLLaMA Today we are having Kimi, the research lab behind the Kimi K2.5. We’re excited to have them open up and answer your questions directly. Our participants today: u/ComfortableAsk4494 u/zxytim u/ppwwyyxx The AMA will run from 8 AM – 11 AM PST, with the Kimi team continuing to follow up ",
+        "published": "2026-01-28T15:46:40+00:00"
+      },
+      {
+        "title": "AMA Announcement: Moonshot AI, The Opensource Frontier Lab Behind Kimi K2.5 SoTA Model (Wednesday, 8AM-11AM PST)",
+        "link": "https://www.reddit.com/r/LocalLLaMA/comments/1qp46za/ama_announcement_moonshot_ai_the_opensource/",
+        "summary": "Hi r/LocalLLaMA 👋 We're excited for Wednesday's guests, The Moonshot AI Lab Team! Kicking things off Wednesday, Jan. 28th, 8 AM–11 AM PST ⚠️ Note: The AMA itself will be hosted in a separate thread, please don’t post questions here. submitted by /u/XMasterrrr [link] [comments]",
+        "published": "2026-01-28T06:54:28+00:00"
+      },
+      {
+        "title": "Mistral CEO Arthur Mensch: “If you treat intelligence as electricity, then you just want to make sure that your access to intelligence cannot be throttled.”",
+        "link": "https://www.reddit.com/r/LocalLLaMA/comments/1qqhhtx/mistral_ceo_arthur_mensch_if_you_treat/",
+        "summary": "submitted by /u/Wonderful-Excuse4922 [link] [comments]",
+        "published": "2026-01-29T18:56:08+00:00"
+      },
+      {
+        "title": "LingBot-World outperforms Genie 3 in dynamic simulation and is fully Open Source",
+        "link": "https://www.reddit.com/r/LocalLLaMA/comments/1qqj51h/lingbotworld_outperforms_genie_3_in_dynamic/",
+        "summary": "The newly released LingBot-World framework offers the first high capability world model that is fully open source, directly contrasting with proprietary systems like Genie 3. The technical report highlights that while both models achieve real-time interactivity, LingBot-World surpasses Genie 3 in dy",
+        "published": "2026-01-29T19:54:56+00:00"
+      },
+      {
+        "title": "OpenCode + llama.cpp + GLM-4.7 Flash: Claude Code at home",
+        "link": "https://www.reddit.com/r/LocalLLaMA/comments/1qqpon2/opencode_llamacpp_glm47_flash_claude_code_at_home/",
+        "summary": "I use Claude Code every day, so I tried the same approach with a local setup, and to my surprise, the workflow feels very similar command I use (may be suboptimal but it works for me now): CUDA_VISIBLE_DEVICES=0,1,2 llama-server --jinja --host 0.0.0.0 -m /mnt/models1/GLM/GLM-4.7-Flash-Q8_0.gguf --ct",
+        "published": "2026-01-30T00:07:33+00:00"
+      },
+      {
+        "title": "Kimi AI team sent me this appreciation mail",
+        "link": "https://www.reddit.com/r/LocalLLaMA/comments/1qqfe1k/kimi_ai_team_sent_me_this_appreciation_mail/",
+        "summary": "So I covered Kimi K2.5 on my YT channel and the team sent me this mail with a premium access to agent swarm submitted by /u/mehulgupta7991 [link] [comments]",
+        "published": "2026-01-29T17:42:26+00:00"
+      },
+      {
+        "title": "GitHub trending this week: half the repos are agent frameworks. 90% will be dead in 1 week.",
+        "link": "https://www.reddit.com/r/LocalLLaMA/comments/1qq6n3t/github_trending_this_week_half_the_repos_are/",
+        "summary": "It this the js framework hell moment of ai? submitted by /u/Distinct-Expression2 [link] [comments]",
+        "published": "2026-01-29T11:58:22+00:00"
+      },
+      {
+        "title": "Why are small models (32b) scoring close to frontier models?",
+        "link": "https://www.reddit.com/r/LocalLLaMA/comments/1qqidxp/why_are_small_models_32b_scoring_close_to/",
+        "summary": "I keep seeing benchmark results where models like Qwen-32B or GLM-4.x Flash score surprisingly good as per their size than larger models like DeepSeek V3, Kimi K2.5 (1T), or GPT-5.x. Given the huge gap in model size and training compute, I’d expect a bigger difference. So what’s going on? Are benchm",
+        "published": "2026-01-29T19:27:44+00:00"
+      },
+      {
+        "title": "Train your own AI to write like Opus 4.5",
+        "link": "https://www.reddit.com/r/LocalLLaMA/comments/1qqnm9z/train_your_own_ai_to_write_like_opus_45/",
+        "summary": "So, I recently trained DASD-4B-Thinking using this as the foundation of the pipeline and it totally works. DASD4B actually sounds like Opus now. You can the dataset I listed on huggingface to do it. Total api cost: $55.91 https://huggingface.co/datasets/crownelius/Opus-4.5-WritingStyle-1000x Works e",
+        "published": "2026-01-29T22:43:34+00:00"
+      },
+      {
+        "title": "Why don’t we have more distilled models?",
+        "link": "https://www.reddit.com/r/LocalLLaMA/comments/1qqeudu/why_dont_we_have_more_distilled_models/",
+        "summary": "The Qwen 8B DeepSeek R1 distill genuinely blew me away when it dropped. You had reasoning capabilities that punched way above the parameter count, running on consumer (GPU poor) hardware. So where are the rest of them? Why aren’t there more? submitted by /u/GreedyWorking1499 [link] [comments]",
+        "published": "2026-01-29T17:23:15+00:00"
+      }
+    ],
+    "r/MLQuestions": [
+      {
+        "title": "MEGATHREAD: Career opportunities",
+        "link": "https://www.reddit.com/r/MLQuestions/comments/1iqtlwm/megathread_career_opportunities/",
+        "summary": "If you are a business hiring people for ML roles, comment here! Likewise, if you are looking for an ML job, also comment here! submitted by /u/NoLifeGamer2 [link] [comments]",
+        "published": "2025-02-16T14:42:06+00:00"
+      },
+      {
+        "title": "MEGATHREAD: Career advice for those currently in university/equivalent",
+        "link": "https://www.reddit.com/r/MLQuestions/comments/1h0jjxk/megathread_career_advice_for_those_currently_in/",
+        "summary": "I see quite a few posts about \"I am a masters student doing XYZ, how can I improve my ML skills to get a job in the field?\" After all, there are many aspiring compscis who want to study ML, to the extent they out-number the entry level positions. If you have any questions about starting a career in ",
+        "published": "2024-11-26T18:53:57+00:00"
+      },
+      {
+        "title": "How are people safely reusing LLM answers in production RAG systems?",
+        "link": "https://www.reddit.com/r/MLQuestions/comments/1qqvf4f/how_are_people_safely_reusing_llm_answers_in/",
+        "summary": "I’m curious how teams are handling answer reuse in production RAG systems. We’ve looked at: • naive semantic caching • query similarity thresholds • embedding-based reuse …but correctness risk seems to make most of these approaches scary in practice, especially when: • source docs change • retrieval",
+        "published": "2026-01-30T04:23:20+00:00"
+      },
+      {
+        "title": "Is it too late ?",
+        "link": "https://www.reddit.com/r/MLQuestions/comments/1qqv02m/is_it_too_late/",
+        "summary": "Hi everyone, I need help, I'm a mechanical engineering student, studying in 3rd year (6th sem), since 2nd year (4th) from a tier 3 private engineering College, I decided to make career in machine learning because of high paying jobs, but I couldn't study at all, I mean I don't know why but I always ",
+        "published": "2026-01-30T04:03:07+00:00"
+      },
+      {
+        "title": "Don’t know what to do for my GW project",
+        "link": "https://www.reddit.com/r/MLQuestions/comments/1qqfa7y/dont_know_what_to_do_for_my_gw_project/",
+        "summary": "I’m completely stuck. We’re building a ML project for GW detection and classification. The goal of our project is to detect real GW signals in noisy data and that part in itself is pretty okay. It’s also meant to classify known binary signals. But we want our model to also be able to detect when the",
+        "published": "2026-01-29T17:38:44+00:00"
+      },
+      {
+        "title": "Why is self supervised depth estimation even a thing if it is so under constrained??",
+        "link": "https://www.reddit.com/r/MLQuestions/comments/1qq7gnz/why_is_self_supervised_depth_estimation_even_a/",
+        "summary": "submitted by /u/Creative_Canary_8168 [link] [comments]",
+        "published": "2026-01-29T12:39:24+00:00"
+      },
+      {
+        "title": "What is the best way to learn ML",
+        "link": "https://www.reddit.com/r/MLQuestions/comments/1qq940t/what_is_the_best_way_to_learn_ml/",
+        "summary": "Suggest a way. submitted by /u/vetti_pechalar [link] [comments]",
+        "published": "2026-01-29T13:52:10+00:00"
+      },
+      {
+        "title": "Can Machine Learning predict obesity risk before it becomes a chronic issue?",
+        "link": "https://www.reddit.com/r/MLQuestions/comments/1qq863d/can_machine_learning_predict_obesity_risk_before/",
+        "summary": "Hi everyone, just wanted to share a project we’ve been working on regarding early intervention in metabolic health. The challenge is that obesity is usually addressed only after it causes systemic damage. We developed a neural network to analyze how lifestyle habits and family history can predict ri",
+        "published": "2026-01-29T13:11:56+00:00"
+      },
+      {
+        "title": "At what dataset size do you stop trusting cross-validation?",
+        "link": "https://www.reddit.com/r/MLQuestions/comments/1qq2cdy/at_what_dataset_size_do_you_stop_trusting/",
+        "summary": "Cross-validation is often treated as a default evaluation strategy, but I’m curious where people personally draw the line. At some point, assumptions start to break down due to data leakage risks, non-stationarity, or simply because variance across folds becomes misleading. Questions I’m genuinely i",
+        "published": "2026-01-29T07:45:58+00:00"
+      },
+      {
+        "title": "Finding a strategy for personal MCU/DCU/Comics project",
+        "link": "https://www.reddit.com/r/MLQuestions/comments/1qpqcj4/finding_a_strategy_for_personal_mcudcucomics/",
+        "summary": "I hope this is the right place to ask this, if not I will gladly tuck tail and hide😅 TLDR: I want to find a ML strategy that will ingest a MCU/DCU movie and spit out Easter eggs found in other movies/shows, comics, or pop culture. (E.g new rockstars) I have a hobby YT channel that gives me an outlet",
+        "published": "2026-01-28T22:34:31+00:00"
+      }
+    ],
+    "r/learnmachinelearning": [
+      {
+        "title": "Want to share your learning journey, but don't want to spam Reddit? Join us on #share-your-progress on our Official /r/LML Discord",
+        "link": "https://www.reddit.com/r/learnmachinelearning/comments/1or86t4/want_to_share_your_learning_journey_but_dont_want/",
+        "summary": "https://discord.gg/3qm9UCpXqz Just created a new channel #share-your-journey for more casual, day-to-day update. Share what you have learned lately, what you have been working on, and just general chit-chat. submitted by /u/techrat_reddit [link] [comments]",
+        "published": "2025-11-07T22:21:47+00:00"
+      },
+      {
+        "title": "🧠 ELI5 Wednesday",
+        "link": "https://www.reddit.com/r/learnmachinelearning/comments/1qph0v0/eli5_wednesday/",
+        "summary": "Welcome to ELI5 (Explain Like I'm 5) Wednesday! This weekly thread is dedicated to breaking down complex technical concepts into simple, understandable explanations. You can participate in two ways: Request an explanation: Ask about a technical concept you'd like to understand better Provide an expl",
+        "published": "2026-01-28T17:01:09+00:00"
+      },
+      {
+        "title": "Just finished a high-resolution DFM face model (448px), of the actress elizabeth olsen",
+        "link": "https://www.reddit.com/r/learnmachinelearning/comments/1qqk5rl/just_finished_a_highresolution_dfm_face_model/",
+        "summary": "can be used with live cam submitted by /u/Emergency_Pause1678 [link] [comments]",
+        "published": "2026-01-29T20:32:08+00:00"
+      },
+      {
+        "title": "Just completed my applied machine learning project focused on analyzing real agricultural and environmental datasets to support data-driven decision-making.",
+        "link": "https://www.reddit.com/r/learnmachinelearning/comments/1qqtl5m/just_completed_my_applied_machine_learning/",
+        "summary": "https://reddit.com/link/1qqtl5m/video/4du2axpyiegg1/player The project covers the full ML workflow, including data preprocessing, exploratory data analysis, feature engineering, model training, evaluati submitted by /u/Ludwig_mac [link] [comments]",
+        "published": "2026-01-30T02:57:27+00:00"
+      },
+      {
+        "title": "What is the best way to learn ML",
+        "link": "https://www.reddit.com/r/learnmachinelearning/comments/1qq90xu/what_is_the_best_way_to_learn_ml/",
+        "summary": "I currently enrolling in 4th sem of cse specialization of ai ml,i like to learn ml completely.so friends or peers kindly suggest the best way to learn ml completely. submitted by /u/vetti_pechalar [link] [comments]",
+        "published": "2026-01-29T13:48:30+00:00"
+      },
+      {
+        "title": "AI-SETT: Diagnostic assessment for AI models, adapted from special education",
+        "link": "https://www.reddit.com/r/learnmachinelearning/comments/1qqwvh7/aisett_diagnostic_assessment_for_ai_models/",
+        "summary": "20 years in assistive technology and special education. Master’s in the field. I’ve spent my career using criterion-referenced assessment to identify what students need—not where they rank. Built AI-SETT to apply the same approach to AI models. 600 observable criteria. 13 categories including metaco",
+        "published": "2026-01-30T05:35:47+00:00"
+      },
+      {
+        "title": "How are people safely reusing LLM answers in production RAG systems?",
+        "link": "https://www.reddit.com/r/learnmachinelearning/comments/1qqw6h4/how_are_people_safely_reusing_llm_answers_in/",
+        "summary": "submitted by /u/Loose_Surprise_9696 [link] [comments]",
+        "published": "2026-01-30T05:00:51+00:00"
+      },
+      {
+        "title": "Personal ML projects that could actually be useful?",
+        "link": "https://www.reddit.com/r/learnmachinelearning/comments/1qqr8we/personal_ml_projects_that_could_actually_be_useful/",
+        "summary": "Hey, I'm trying to find inspiration for an ML project that might actually be useful to me. There are many project ideas out there that are intellectually interesting, but I wanted to build something that I could potentially deploy and share it with friends and create value. Perhaps this could be don",
+        "published": "2026-01-30T01:13:44+00:00"
+      },
+      {
+        "title": "Interview help!",
+        "link": "https://www.reddit.com/r/learnmachinelearning/comments/1qqw1nn/interview_help/",
+        "summary": "I have an interview coming up and would like to know possible questions I could get asked around this project. Have rough idea around deployment, had gotten exposure to some of it while doing this project. Please do post possible questions that could come up around this project. Also pls do suggest ",
+        "published": "2026-01-30T04:54:04+00:00"
+      },
+      {
+        "title": "How are people safely reusing LLM answers in production RAG systems?",
+        "link": "https://www.reddit.com/r/learnmachinelearning/comments/1qqvjrk/how_are_people_safely_reusing_llm_answers_in/",
+        "summary": "submitted by /u/Loose_Surprise_9696 [link] [comments]",
+        "published": "2026-01-30T04:29:43+00:00"
+      }
+    ]
+  },
+  "blogs": {
+    "OpenAI Blog": [
+      {
+        "title": "Inside OpenAI’s in-house data agent",
+        "link": "https://openai.com/index/inside-our-in-house-data-agent",
+        "summary": "How OpenAI built an in-house AI data agent that uses GPT-5, Codex, and memory to reason over massive datasets and deliver reliable insights in minutes.",
+        "published": "Thu, 29 Jan 2026 10:00:00 GMT"
+      },
+      {
+        "title": "Taisei Corporation shapes the next generation of talent with ChatGPT",
+        "link": "https://openai.com/index/taisei",
+        "summary": "Taisei Corporation uses ChatGPT Enterprise to support HR-led talent development and scale generative AI across its global construction business.",
+        "published": "Thu, 29 Jan 2026 00:00:00 GMT"
+      },
+      {
+        "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+        "link": "https://openai.com/index/retiring-gpt-4o-and-older-models",
+        "summary": "On February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5 (Instant, Thinking, and Pro), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mini, and OpenAI o4-mini from ChatGPT. In the API, there are no changes at this time.",
+        "published": "Thu, 29 Jan 2026 00:00:00 GMT"
+      },
+      {
+        "title": "EMEA Youth & Wellbeing Grant",
+        "link": "https://openai.com/index/emea-youth-and-wellbeing-grant",
+        "summary": "Apply for the EMEA Youth & Wellbeing Grant, a €500,000 program funding NGOs and researchers advancing youth safety and wellbeing in the age of AI.",
+        "published": "Wed, 28 Jan 2026 01:00:00 GMT"
+      },
+      {
+        "title": "The next chapter for AI in the EU",
+        "link": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
+        "summary": "OpenAI launches the EU Economic Blueprint 2.0 with new data, partnerships, and initiatives to accelerate AI adoption, skills, and growth across Europe.",
+        "published": "Wed, 28 Jan 2026 01:00:00 GMT"
+      },
+      {
+        "title": "Keeping your data safe when an AI agent clicks a link",
+        "link": "https://openai.com/index/ai-agent-link-safety",
+        "summary": "Learn how OpenAI protects user data when AI agents open links, preventing URL-based data exfiltration and prompt injection with built-in safeguards.",
+        "published": "Wed, 28 Jan 2026 00:00:00 GMT"
+      },
+      {
+        "title": "PVH reimagines the future of fashion with OpenAI",
+        "link": "https://openai.com/index/pvh-future-of-fashion",
+        "summary": "PVH Corp., parent company of Calvin Klein and Tommy Hilfiger, is adopting ChatGPT Enterprise to bring AI into fashion design, supply chain, and consumer engagement.",
+        "published": "Tue, 27 Jan 2026 06:00:00 GMT"
+      },
+      {
+        "title": "Powering tax donations with AI powered personalized recommendations",
+        "link": "https://openai.com/index/trustbank",
+        "summary": "TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, delivering personalized, conversational recommendations that simplify Furusato Nozei gift discovery. A multi-agent system helps donors navigate thousands of options and find gifts that match their preferences.",
+        "published": "Tue, 27 Jan 2026 00:00:00 GMT"
+      },
+      {
+        "title": "Introducing Prism",
+        "link": "https://openai.com/index/introducing-prism",
+        "summary": "Prism is a free LaTeX-native workspace with GPT-5.2 built in, helping researchers write, collaborate, and reason in one place.",
+        "published": "Tue, 27 Jan 2026 00:00:00 GMT"
+      },
+      {
+        "title": "How Indeed uses AI to help evolve the job search",
+        "link": "https://openai.com/index/indeed-maggie-hulce",
+        "summary": "Indeed’s CRO Maggie Hulce shares how AI is transforming job search, recruiting, and talent acquisition for employers and job seekers.",
+        "published": "Mon, 26 Jan 2026 00:00:00 GMT"
+      }
+    ],
+    "Google AI Blog": [
+      {
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "link": "http://blog.research.google/feeds/1569605132526995799/comments/default",
+        "summary": "Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research Accurate weather forecasts can have a direct impact on people’s lives, from helping make routine decisions, like what to pack for a day’s activities, to informing urgent actions, for example, protectin",
+        "published": "2024-03-29T11:03:10.261-07:00"
+      },
+      {
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+        "link": "http://blog.research.google/feeds/1799535679952845079/comments/default",
+        "summary": "Posted by Urs Köster, Software Engineer, Google Research Time series problems are ubiquitous, from forecasting weather and traffic patterns to understanding economic trends. Bayesian approaches start with an assumption about the data's patterns (prior probability), collecting evidence (e.g., new tim",
+        "published": "2024-03-29T12:00:03.604-07:00"
+      },
+      {
+        "title": "Computer-aided diagnosis for lung cancer screening",
+        "link": "http://blog.research.google/feeds/7061041222399769838/comments/default",
+        "summary": "Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research Lung cancer is the leading cause of cancer-related deaths globally with 1.8 million deaths reported in 2020. Late diagnosis dramatically reduces the chances of survival. Lung cancer screening via computed ",
+        "published": "2024-03-20T13:54:06.249-07:00"
+      },
+      {
+        "title": "Using AI to expand global access to reliable flood forecasts",
+        "link": "http://blog.research.google/feeds/4615278636568583418/comments/default",
+        "summary": "Posted by Yossi Matias, VP Engineering & Research, and Grey Nearing, Research Scientist, Google Research Floods are the most common natural disaster, and are responsible for roughly $50 billion in annual financial damages worldwide. The rate of flood-related disasters has more than doubled since the",
+        "published": "2024-03-20T09:06:06.753-07:00"
+      },
+      {
+        "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+        "link": "http://blog.research.google/feeds/520087429457973735/comments/default",
+        "summary": "Posted by Srinivas Sunkara and Gilles Baechler, Software Engineers, Google Research Screen user interfaces (UIs) and infographics, such as charts, diagrams and tables, play important roles in human communication and human-machine interaction as they facilitate rich and interactive user experiences. ",
+        "published": "2024-03-19T13:15:33.664-07:00"
+      },
+      {
+        "title": "SCIN: A new resource for representative dermatology images",
+        "link": "http://blog.research.google/feeds/4328167517765145678/comments/default",
+        "summary": "Posted by Pooja Rao, Research Scientist, Google Research Health datasets play a crucial role in research and medical education, but it can be challenging to create a dataset that represents the real world. For example, dermatology conditions are diverse in their appearance and severity and manifest ",
+        "published": "2024-03-19T08:00:00.150-07:00"
+      },
+      {
+        "title": "MELON: Reconstructing 3D objects from images with unknown poses",
+        "link": "http://blog.research.google/feeds/757976001746578714/comments/default",
+        "summary": "Posted by Mark Matthews, Senior Software Engineer, and Dmitry Lagun, Research Scientist, Google Research A person's prior experience and understanding of the world generally enables them to easily infer what an object looks like in whole, even if only looking at a few 2D pictures of it. Yet the capa",
+        "published": "2024-03-18T12:01:42.865-07:00"
+      },
+      {
+        "title": "HEAL: A framework for health equity assessment of machine learning performance",
+        "link": "http://blog.research.google/feeds/977556648557231190/comments/default",
+        "summary": "Posted by Mike Schaekermann, Research Scientist, Google Research, and Ivor Horn, Chief Health Equity Officer & Director, Google Core Health equity is a major societal concern worldwide with disparities having many causes. These sources include limitations in access to healthcare, differences in clin",
+        "published": "2024-03-15T11:22:13.760-07:00"
+      },
+      {
+        "title": "Cappy: Outperforming and boosting large multi-task language models with a small scorer",
+        "link": "http://blog.research.google/feeds/7868032799856333119/comments/default",
+        "summary": "Posted by Yun Zhu and Lijuan Liu, Software Engineers, Google Research Large language model (LLM) advancements have led to a new paradigm that unifies various natural language processing (NLP) tasks within an instruction-following framework. This paradigm is exemplified by recent multi-task LLMs, suc",
+        "published": "2024-03-14T12:38:11.597-07:00"
+      },
+      {
+        "title": "Talk like a graph: Encoding graphs for large language models",
+        "link": "http://blog.research.google/feeds/6090481872694489715/comments/default",
+        "summary": "Posted by Bahare Fatemi and Bryan Perozzi, Research Scientists, Google Research Imagine all the things around you — your friends, tools in your kitchen, or even the parts of your bike. They are all connected in different ways. In computer science, the term graph is used to describe connections betwe",
+        "published": "2024-03-19T09:12:05.568-07:00"
+      }
+    ],
+    "DeepMind Blog": [
+      {
+        "title": "Project Genie: Experimenting with infinite, interactive worlds",
+        "link": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/",
+        "summary": "Google AI Ultra subscribers in the U.S. can try out Project Genie, an experimental research prototype that lets you create and explore worlds.",
+        "published": "Thu, 29 Jan 2026 17:01:05 +0000"
+      },
+      {
+        "title": "D4RT: Teaching AI to see the world in four dimensions",
+        "link": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
+        "summary": "D4RT: Unified, efficient 4D reconstruction and tracking up to 300x faster than prior methods.",
+        "published": "Fri, 16 Jan 2026 10:39:00 +0000"
+      },
+      {
+        "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
+        "link": "https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control/",
+        "summary": "Our latest Veo update generates lively, dynamic clips that feel natural and engaging — and supports vertical video generation.",
+        "published": "Tue, 13 Jan 2026 17:00:18 +0000"
+      },
+      {
+        "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
+        "link": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
+        "summary": "Google 2025 recap: Research breakthroughs of the year",
+        "published": "Tue, 23 Dec 2025 17:01:02 +0000"
+      },
+      {
+        "title": "Gemini 3 Flash: frontier intelligence built for speed",
+        "link": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
+        "summary": "Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.",
+        "published": "Wed, 17 Dec 2025 11:58:17 +0000"
+      },
+      {
+        "title": "Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior",
+        "link": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
+        "summary": "Open interpretability tools for language models are now available across the entire Gemma 3 family with the release of Gemma Scope 2.",
+        "published": "Tue, 16 Dec 2025 10:14:24 +0000"
+      },
+      {
+        "title": "Improved Gemini audio models for powerful voice experiences",
+        "link": "https://deepmind.google/blog/improved-gemini-audio-models-for-powerful-voice-experiences/",
+        "summary": "No summary available",
+        "published": "Fri, 12 Dec 2025 17:50:50 +0000"
+      },
+      {
+        "title": "Deepening our partnership with the UK AI Security Institute",
+        "link": "https://deepmind.google/blog/deepening-our-partnership-with-the-uk-ai-security-institute/",
+        "summary": "Google DeepMind and UK AI Security Institute (AISI) strengthen collaboration on critical AI safety and security research",
+        "published": "Thu, 11 Dec 2025 00:06:40 +0000"
+      },
+      {
+        "title": "Strengthening our partnership with the UK government to support prosperity and security in the AI era",
+        "link": "https://deepmind.google/blog/strengthening-our-partnership-with-the-uk-government-to-support-prosperity-and-security-in-the-ai-era/",
+        "summary": "Deepening our partnership with the UK government to support prosperity and security in the AI era",
+        "published": "Wed, 10 Dec 2025 14:59:21 +0000"
+      },
+      {
+        "title": "FACTS Benchmark Suite: Systematically evaluating the factuality of large language models",
+        "link": "https://deepmind.google/blog/facts-benchmark-suite-systematically-evaluating-the-factuality-of-large-language-models/",
+        "summary": "Systematically evaluating the factuality of large language models with the FACTS Benchmark Suite.",
+        "published": "Tue, 09 Dec 2025 11:29:03 +0000"
+      }
+    ],
+    "Meta AI": [],
+    "Anthropic": [],
+    "NVIDIA Blog": [
+      {
+        "title": "Mercedes-Benz Unveils New S-Class Built on NVIDIA DRIVE AV, Which Enables an L4-Ready Architecture",
+        "link": "https://blogs.nvidia.com/blog/mercedes-benz-l4-s-class-drive-av-platform/",
+        "summary": "Mercedes-Benz is marking 140 years of automotive innovation with a new S-Class built for the AI era, bringing together automotive safety and NVIDIA’s advanced autonomous driving platform to enable a level 4-ready architecture designed for trust. The new S-Class with MB.OS, which will be equipped wit",
+        "published": "Thu, 29 Jan 2026 18:00:31 +0000"
+      },
+      {
+        "title": "Into the Omniverse: Physical AI Open Models and Frameworks Advance Robots and Autonomous Systems",
+        "link": "https://blogs.nvidia.com/blog/physical-ai-open-models-robot-autonomous-systems-omniverse/",
+        "summary": "Open source has become essential for driving innovation in robotics and autonomy. By providing access to critical infrastructure — from simulation frameworks to AI models — NVIDIA is enabling collaborative development that accelerates the path to safer, more capable autonomous systems.",
+        "published": "Thu, 29 Jan 2026 17:00:21 +0000"
+      },
+      {
+        "title": "GeForce NOW Brings GeForce RTX Gaming to Linux PCs",
+        "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-linux/",
+        "summary": "Get ready to game — the native GeForce NOW app for Linux PCs is now available in beta, letting Linux desktops tap directly into GeForce RTX performance from the cloud. Alongside the expansion comes ten new games, including The Bard’s Tale IV: Director’s Cut and The Bard’s Tale Trilogy for a leveled-",
+        "published": "Thu, 29 Jan 2026 14:00:49 +0000"
+      },
+      {
+        "title": "Accelerating Science: A Blueprint for a Renewed National Quantum Initiative",
+        "link": "https://blogs.nvidia.com/blog/national-quantum-initiative/",
+        "summary": "Quantum technologies are rapidly emerging as foundational capabilities for economic competitiveness, national security and scientific leadership in the 21st century. Sustained U.S. leadership in quantum information science is critical to ensuring that breakthroughs in computing, sensing, networking ",
+        "published": "Wed, 28 Jan 2026 18:17:53 +0000"
+      },
+      {
+        "title": "NVIDIA Launches Earth-2 Family of Open Models — the World’s First Fully Open, Accelerated Set of Models and Tools for AI Weather",
+        "link": "https://blogs.nvidia.com/blog/nvidia-earth-2-open-models/",
+        "summary": "At the American Meteorological Society’s Annual Meeting, NVIDIA today unveiled a new NVIDIA Earth-2 family of open models, libraries and frameworks for weather and climate AI, offering the world’s first fully open, production-ready weather AI software stack.",
+        "published": "Mon, 26 Jan 2026 14:00:53 +0000"
+      },
+      {
+        "title": "NVIDIA DRIVE AV Raises the Bar for Vehicle Safety as Mercedes-Benz CLA Earns Top Euro NCAP Award",
+        "link": "https://blogs.nvidia.com/blog/drive-av-mercedes-benz-cla-euro-ncap-safety-award/",
+        "summary": "AI-powered driver assistance technologies are becoming standard equipment, fundamentally changing how vehicle safety is assessed and validated. The recent recognition of the Mercedes-Benz CLA as Euro NCAP’s Best Performer of 2025 underscores this shift, as the vehicle combines traditional passive sa",
+        "published": "Thu, 22 Jan 2026 18:21:49 +0000"
+      },
+      {
+        "title": "How to Get Started With Visual Generative AI on NVIDIA RTX PCs",
+        "link": "https://blogs.nvidia.com/blog/rtx-ai-garage-comfyui-tutorial/",
+        "summary": "AI-powered content generation is now embedded in everyday tools like Adobe and Canva, with a slew of agencies and studios incorporating the technology into their workflows. Image models now deliver photorealistic results consistently, video models can generate long and coherent clips, and both can f",
+        "published": "Thu, 22 Jan 2026 14:00:57 +0000"
+      },
+      {
+        "title": "From Pilot to Profit: Survey Reveals the Financial Services Industry Is Doubling Down on AI Investment and Open Source",
+        "link": "https://blogs.nvidia.com/blog/ai-in-financial-services-survey-2026/",
+        "summary": "AI has taken center stage in financial services, automating the research and execution behind algorithmic trading and helping banks more accurately detect fraud and money laundering — all while improving risk management practices and expediting document processing. The sixth annual “NVIDIA State of ",
+        "published": "Thu, 22 Jan 2026 14:00:54 +0000"
+      },
+      {
+        "title": "Flight Controls Are Cleared for Takeoff on GeForce NOW",
+        "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-flight-controls/",
+        "summary": "The wait is over, pilots. Flight control support — one of the most community-requested features for GeForce NOW — is live starting today, following its announcement at CES earlier this month. Virtual captains can now bring dedicated flight gear into the cloud and feel every roll, yaw and throttle ch",
+        "published": "Thu, 22 Jan 2026 14:00:53 +0000"
+      },
+      {
+        "title": "‘Largest Infrastructure Buildout in Human History’: Jensen Huang on AI’s ‘Five-Layer Cake’ at Davos",
+        "link": "https://blogs.nvidia.com/blog/davos-wef-blackrock-ceo-larry-fink-jensen-huang/",
+        "summary": "AI is becoming the foundation of the “largest infrastructure buildout in human history,” spanning energy and computing infrastructure, AI models and applications, NVIDIA founder and CEO Jensen Huang said during a World Economic Forum discussion with BlackRock CEO Larry Fink.",
+        "published": "Wed, 21 Jan 2026 12:50:16 +0000"
+      }
+    ],
+    "Hugging Face": [
+      {
+        "title": "Introducing NVIDIA Cosmos Policy for Advanced Robot Control",
+        "link": "https://huggingface.co/blog/nvidia/cosmos-policy-for-robot-control",
+        "summary": "No summary available",
+        "published": "Thu, 29 Jan 2026 17:03:25 GMT"
+      },
+      {
+        "title": "Introducing Daggr: Chain apps programmatically, inspect visually",
+        "link": "https://huggingface.co/blog/daggr",
+        "summary": "No summary available",
+        "published": "Thu, 29 Jan 2026 00:00:00 GMT"
+      },
+      {
+        "title": "We Got Claude to Build CUDA Kernels and teach open models!",
+        "link": "https://huggingface.co/blog/upskill",
+        "summary": "No summary available",
+        "published": "Wed, 28 Jan 2026 00:00:00 GMT"
+      },
+      {
+        "title": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek",
+        "link": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
+        "summary": "No summary available",
+        "published": "Tue, 27 Jan 2026 15:01:45 GMT"
+      },
+      {
+        "title": "Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
+        "link": "https://huggingface.co/blog/tiiuae/emirati-benchmarks",
+        "summary": "No summary available",
+        "published": "Tue, 27 Jan 2026 10:26:42 GMT"
+      },
+      {
+        "title": "Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective",
+        "link": "https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl",
+        "summary": "No summary available",
+        "published": "Tue, 27 Jan 2026 01:53:15 GMT"
+      },
+      {
+        "title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
+        "link": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
+        "summary": "No summary available",
+        "published": "Wed, 21 Jan 2026 06:25:31 GMT"
+      },
+      {
+        "title": "One Year Since the “DeepSeek Moment”",
+        "link": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment",
+        "summary": "No summary available",
+        "published": "Tue, 20 Jan 2026 15:02:10 GMT"
+      },
+      {
+        "title": "Differential Transformer V2",
+        "link": "https://huggingface.co/blog/microsoft/diff-attn-v2",
+        "summary": "No summary available",
+        "published": "Tue, 20 Jan 2026 03:20:57 GMT"
+      },
+      {
+        "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
+        "link": "https://huggingface.co/blog/waypoint-1",
+        "summary": "No summary available",
+        "published": "Tue, 20 Jan 2026 00:00:00 GMT"
+      }
+    ],
+    "Papers with Code": []
+  },
+  "news": {
+    "VentureBeat AI": [
+      {
+        "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+        "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+        "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of lega",
+        "published": "Thu, 22 Jan 2026 14:00:00 GMT"
+      },
+      {
+        "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+        "link": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+        "summary": "The artificial intelligence coding revolution comes with a catch: it's expensive.Claude Code, Anthropic's terminal-based AI agent that can write, debug, and deploy code autonomously, has captured the imagination of software developers worldwide. But its pricing — ranging from $20 to $200 per month d",
+        "published": "Mon, 19 Jan 2026 14:00:00 GMT"
+      },
+      {
+        "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+        "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+        "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerberg's $100 million offers seemed impossible. So he spent $5,000 — a fifth of his marketing budget — on a billboard in San Francisco displaying what looked like ",
+        "published": "Fri, 16 Jan 2026 14:01:00 GMT"
+      },
+      {
+        "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+        "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+        "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company's workplace assistant, transforming it from a simple notification tool into what executives describe as a fully powered AI agent capable of searching enterprise data, drafting documents, and taking action on behalf o",
+        "published": "Tue, 13 Jan 2026 13:00:00 GMT"
+      },
+      {
+        "title": "Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+        "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
+        "summary": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team built the entire feature in approximately a week and a half, largely using Claude Code itself.The launc",
+        "published": "Mon, 12 Jan 2026 11:30:00 GMT"
+      },
+      {
+        "title": "Nous Research's NousCoder-14B is an open-source coding model landing right in the Claude Code moment",
+        "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
+        "summary": "Nous Research, the open-source artificial intelligence startup backed by crypto venture firm Paradigm, released a new competitive programming model on Monday that it says matches or exceeds several larger proprietary systems — trained in just four days using 48 of Nvidia's latest B200 graphics proce",
+        "published": "Wed, 07 Jan 2026 20:00:00 GMT"
+      },
+      {
+        "title": "The creator of Claude Code just revealed his workflow, and developers are losing their minds",
+        "link": "https://venturebeat.com/technology/the-creator-of-claude-code-just-revealed-his-workflow-and-developers-are",
+        "summary": "When the creator of the world's most advanced coding agent speaks, Silicon Valley doesn't just listen — it takes notes.For the past week, the engineering community has been dissecting a thread on X from Boris Cherny, the creator and head of Claude Code at Anthropic. What began as a casual sharing of",
+        "published": "Mon, 05 Jan 2026 07:45:00 GMT"
+      }
+    ],
+    "TechCrunch AI": [
+      {
+        "title": "Guys, I don’t think Tim Cook knows how to monetize AI",
+        "link": "https://techcrunch.com/2026/01/29/guys-i-dont-think-tim-cook-knows-how-to-monetize-ai/",
+        "summary": "One intrepid Morgan Stanley analyst dared to ask how Apple will make money on its AI investments. The answer will not shock you.",
+        "published": "Thu, 29 Jan 2026 23:51:17 +0000"
+      },
+      {
+        "title": "Elon Musk’s SpaceX, Tesla, and xAI in talks to merge, according to reports",
+        "link": "https://techcrunch.com/2026/01/29/elon-musk-spacex-tesla-xai-merger-talks-ipo-reuters/",
+        "summary": "This merger would bring the Grok chatbot, Starlink satellites, and SpaceX rockets together under one corporation.",
+        "published": "Thu, 29 Jan 2026 22:47:42 +0000"
+      },
+      {
+        "title": "Amazon is reportedly in talks to invest $50B in OpenAI",
+        "link": "https://techcrunch.com/2026/01/29/amazon-is-reportedly-in-talks-to-invest-50-billion-in-openai/",
+        "summary": "If a deal materializes, it would mean Amazon is backing competing startups in the race for AI supremacy.",
+        "published": "Thu, 29 Jan 2026 22:11:09 +0000"
+      },
+      {
+        "title": "Satya Nadella insists people are using Microsoft’s Copilot AI a lot",
+        "link": "https://techcrunch.com/2026/01/29/satya-nadella-insists-people-are-using-microsofts-copilot-ai-a-lot/",
+        "summary": "With Microsoft spending many billions on data centers, and rumors that no one is using its AI, CEO Satya Nadella shared some usage numbers.",
+        "published": "Thu, 29 Jan 2026 20:06:56 +0000"
+      },
+      {
+        "title": "Apple buys Israeli startup Q.ai as the AI race heats up",
+        "link": "https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/",
+        "summary": "Q.ai is an Israeli startup specializing in imaging and machine learning, particularly technologies that enable devices to interpret whispered speech and enhance audio in noisy environments.",
+        "published": "Thu, 29 Jan 2026 18:58:07 +0000"
+      },
+      {
+        "title": "I built marshmallow castles in Google’s new AI-world generator",
+        "link": "https://techcrunch.com/2026/01/29/i-built-marshmallow-castles-in-googles-new-ai-world-generator-project-genie/",
+        "summary": "Starting Thursday, Google AI Ultra subscribers in the U.S. can play around with Project Genie, which is powered by a combination of Google’s latest world model Genie 3, its image generation model Nano Banana Pro, and Gemini.",
+        "published": "Thu, 29 Jan 2026 17:29:11 +0000"
+      },
+      {
+        "title": "OpenAI’s Sora app is struggling after its stellar launch",
+        "link": "https://techcrunch.com/2026/01/29/openais-sora-app-is-struggling-after-its-stellar-launch/",
+        "summary": "New data suggests the app is seeing declines in both app downloads and consumer spending, as the early hype about the AI video social network wears off.",
+        "published": "Thu, 29 Jan 2026 16:48:44 +0000"
+      },
+      {
+        "title": "Music publishers sue Anthropic for $3B over ‘flagrant piracy’ of 20,000 works",
+        "link": "https://techcrunch.com/2026/01/29/music-publishers-sue-anthropic-for-3b-over-flagrant-piracy-of-20000-works/",
+        "summary": "Originally, these music publishers had filed a lawsuit against Anthropic over its use of about 500 copyrighted works.",
+        "published": "Thu, 29 Jan 2026 16:30:29 +0000"
+      },
+      {
+        "title": "India is teaching Google how AI in education can scale",
+        "link": "https://techcrunch.com/2026/01/29/india-is-teaching-google-how-ai-in-education-can-scale/",
+        "summary": "With the highest global usage of Gemini for learning, India is emerging as a key market shaping Google's approach to AI in education.",
+        "published": "Thu, 29 Jan 2026 15:29:31 +0000"
+      },
+      {
+        "title": "Flapping Airplanes and the promise of research-driven AI",
+        "link": "https://techcrunch.com/2026/01/29/flapping-airplanes-and-the-promise-of-research-driven-ai/",
+        "summary": "A new AI lab called Flapping Airplanes launched yesterday, and a Sequoia partner has an interesting take on why they stand out.",
+        "published": "Thu, 29 Jan 2026 15:22:29 +0000"
+      }
+    ],
+    "The Verge AI": [],
+    "Ars Technica AI": [
+      {
+        "title": "How often do AI chatbots lead users down a harmful path?",
+        "link": "https://arstechnica.com/ai/2026/01/how-often-do-ai-chatbots-lead-users-down-a-harmful-path/",
+        "summary": "Anthropic's latest paper on \"user disempowerment\" has some troubling findings.",
+        "published": "Thu, 29 Jan 2026 22:05:59 +0000"
+      },
+      {
+        "title": "Google Project Genie lets you create interactive worlds from a photo or prompt",
+        "link": "https://arstechnica.com/google/2026/01/google-project-genie-lets-you-create-interactive-worlds-from-a-photo-or-prompt/",
+        "summary": "Project Genie lets you generate new worlds 60 seconds at a time, but only if you pay for AI Ultra.",
+        "published": "Thu, 29 Jan 2026 20:26:50 +0000"
+      },
+      {
+        "title": "New OpenAI tool renews fears that “AI slop” will overwhelm scientific research",
+        "link": "https://arstechnica.com/ai/2026/01/new-openai-tool-renews-fears-that-ai-slop-will-overwhelm-scientific-research/",
+        "summary": "New \"Prism\" workspace launches just as studies show AI-assisted papers are flooding journals with diminished quality.",
+        "published": "Thu, 29 Jan 2026 17:51:49 +0000"
+      },
+      {
+        "title": "Does Anthropic believe its AI is conscious, or is that just what it wants Claude to think?",
+        "link": "https://arstechnica.com/information-technology/2026/01/does-anthropic-believe-its-ai-is-conscious-or-is-that-just-what-it-wants-claude-to-think/",
+        "summary": "We have no proof that AI models suffer, but Anthropic acts like they might for training purposes.",
+        "published": "Thu, 29 Jan 2026 15:19:56 +0000"
+      },
+      {
+        "title": "US cyber defense chief accidentally uploaded secret government info to ChatGPT",
+        "link": "https://arstechnica.com/tech-policy/2026/01/us-cyber-defense-chief-accidentally-uploaded-secret-government-info-to-chatgpt/",
+        "summary": "Congress recently grilled the acting chief on mass layoffs and a failed polygraph.",
+        "published": "Wed, 28 Jan 2026 19:56:44 +0000"
+      },
+      {
+        "title": "Google begins rolling out Chrome's \"Auto Browse\" AI agent today",
+        "link": "https://arstechnica.com/google/2026/01/google-begins-rolling-out-chromes-auto-browse-ai-agent-today/",
+        "summary": "The Auto Browse agent is available to AI Pro and AI Ultra subscribers, but there are some limits.",
+        "published": "Wed, 28 Jan 2026 18:00:14 +0000"
+      },
+      {
+        "title": "Report: China approves import of high-end Nvidia AI chips after weeks of uncertainty",
+        "link": "https://arstechnica.com/ai/2026/01/report-china-approves-import-of-high-end-nvidia-ai-chips-after-weeks-of-uncertainty/",
+        "summary": "Over 400,000 H200 chips coming to tech giants as China tries to balance tech needs with self-reliance.",
+        "published": "Wed, 28 Jan 2026 17:21:29 +0000"
+      },
+      {
+        "title": "Users flock to open source Moltbot for always-on AI, despite major risks",
+        "link": "https://arstechnica.com/ai/2026/01/viral-ai-assistant-moltbot-rapidly-gains-popularity-but-poses-security-risks/",
+        "summary": "The open source \"Jarvis\" chats via WhatsApp but requires access to your files and accounts.",
+        "published": "Wed, 28 Jan 2026 12:30:44 +0000"
+      },
+      {
+        "title": "AI Overviews gets upgraded to Gemini 3 with a dash of AI Mode",
+        "link": "https://arstechnica.com/google/2026/01/ai-overviews-gets-upgraded-to-gemini-3-with-a-dash-of-ai-mode/",
+        "summary": "AI Overviews may get it right more often with the move to Gemini 3.",
+        "published": "Tue, 27 Jan 2026 17:00:58 +0000"
+      },
+      {
+        "title": "OpenAI spills technical details about how its AI coding agent works",
+        "link": "https://arstechnica.com/ai/2026/01/openai-spills-technical-details-about-how-its-ai-coding-agent-works/",
+        "summary": "Unusually detailed post explains how OpenAI handles the Codex agent loop.",
+        "published": "Mon, 26 Jan 2026 23:05:17 +0000"
+      }
+    ]
+  },
+  "research": {
+    "arXiv CS.AI": [
+      {
+        "title": "NeuroAI and Beyond",
+        "link": "https://arxiv.org/abs/2601.19955",
+        "summary": "arXiv:2601.19955v1 Announce Type: new Abstract: Neuroscience and Artificial Intelligence (AI) have made significant progress in the past few years but have only been loosely inter-connected. Based on a workshop held in August 2025, we identify current and future areas of synergism between these two ",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      },
+      {
+        "title": "Teaching LLMs to Ask: Self-Querying Category-Theoretic Planning for Under-Specified Reasoning",
+        "link": "https://arxiv.org/abs/2601.20014",
+        "summary": "arXiv:2601.20014v1 Announce Type: new Abstract: Inference-time planning with large language models frequently breaks under partial observability: when task-critical preconditions are not specified at query time, models tend to hallucinate missing facts or produce plans that violate hard constraints.",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      },
+      {
+        "title": "Fuzzy Categorical Planning: Autonomous Goal Satisfaction with Graded Semantic Constraints",
+        "link": "https://arxiv.org/abs/2601.20021",
+        "summary": "arXiv:2601.20021v1 Announce Type: new Abstract: Natural-language planning often involves vague predicates (e.g., suitable substitute, stable enough) whose satisfaction is inherently graded. Existing category-theoretic planners provide compositional structure and pullback-based hard-constraint verifi",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      },
+      {
+        "title": "Insight Agents: An LLM-Based Multi-Agent System for Data Insights",
+        "link": "https://arxiv.org/abs/2601.20048",
+        "summary": "arXiv:2601.20048v1 Announce Type: new Abstract: Today, E-commerce sellers face several key challenges, including difficulties in discovering and effectively utilizing available programs and tools, and struggling to understand and utilize rich data from various tools. We therefore aim to develop Insi",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      },
+      {
+        "title": "Should I Have Expressed a Different Intent? Counterfactual Generation for LLM-Based Autonomous Control",
+        "link": "https://arxiv.org/abs/2601.20090",
+        "summary": "arXiv:2601.20090v2 Announce Type: new Abstract: Large language model (LLM)-powered agents can translate high-level user intents into plans and actions in an environment. Yet after observing an outcome, users may wonder: What if I had phrased my intent differently? We introduce a framework that enabl",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      },
+      {
+        "title": "Towards Intelligent Urban Park Development Monitoring: LLM Agents for Multi-Modal Information Fusion and Analysis",
+        "link": "https://arxiv.org/abs/2601.20206",
+        "summary": "arXiv:2601.20206v1 Announce Type: new Abstract: As an important part of urbanization, the development monitoring of newly constructed parks is of great significance for evaluating the effect of urban planning and optimizing resource allocation. However, traditional change detection methods based on ",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      },
+      {
+        "title": "Scaling Medical Reasoning Verification via Tool-Integrated Reinforcement Learning",
+        "link": "https://arxiv.org/abs/2601.20221",
+        
+        "summary": "arXiv:2601.20221v1 Announce Type: new Abstract: Large language models have achieved strong performance on medical reasoning benchmarks, yet their deployment in clinical settings demands rigorous verification to ensure factual accuracy. While reward models offer a scalable approach for reasoning trac",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      },
+      {
+        "title": "Endogenous Reprompting: Self-Evolving Cognitive Alignment for Unified Multimodal Models",
+        "link": "https://arxiv.org/abs/2601.20305",
+        "summary": "arXiv:2601.20305v1 Announce Type: new Abstract: Unified Multimodal Models (UMMs) exhibit strong understanding, yet this capability often fails to effectively guide generation. We identify this as a Cognitive Gap: the model lacks the understanding of how to enhance its own generation process. To brid",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      },
+      {
+        "title": "ECG-Agent: On-Device Tool-Calling Agent for ECG Multi-Turn Dialogue",
+        "link": "https://arxiv.org/abs/2601.20323",
+        "summary": "arXiv:2601.20323v1 Announce Type: new Abstract: Recent advances in Multimodal Large Language Models have rapidly expanded to electrocardiograms, focusing on classification, report generation, and single-turn QA tasks. However, these models fall short in real-world scenarios, lacking multi-turn conve",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      },
+      {
+        "title": "AMA: Adaptive Memory via Multi-Agent Collaboration",
+        "link": "https://arxiv.org/abs/2601.20352",
+        "summary": "arXiv:2601.20352v1 Announce Type: new Abstract: The rapid evolution of Large Language Model (LLM) agents has necessitated robust memory systems to support cohesive long-term interaction and complex reasoning. Benefiting from the strong capabilities of LLMs, recent research focus has shifted from sim",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      }
+    ],
+    "arXiv CS.LG": [
+      {
+        "title": "Rethinking LLM-Driven Heuristic Design: Generating Efficient and Specialized Solvers via Dynamics-Aware Optimization",
+        "link": "https://arxiv.org/abs/2601.20868",
+        "summary": "arXiv:2601.20868v1 Announce Type: new Abstract: Large Language Models (LLMs) have advanced the field of Combinatorial Optimization through automated heuristic generation. Instead of relying on manual design, this LLM-Driven Heuristic Design (LHD) process leverages LLMs to iteratively generate and re",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      },
+      {
+        "title": "Finetune-Informed Pretraining Boosts Downstream Performance",
+        "link": "https://arxiv.org/abs/2601.20884",
+        "summary": "arXiv:2601.20884v1 Announce Type: new Abstract: Multimodal pretraining is effective for building general-purpose representations, but in many practical deployments, only one modality is heavily used during downstream fine-tuning. Standard pretraining strategies treat all modalities uniformly, which ",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      },
+      {
+        "title": "A generative machine learning model for designing metal hydrides applied to hydrogen storage",
+        "link": "https://arxiv.org/abs/2601.20892",
+        "summary": "arXiv:2601.20892v1 Announce Type: new Abstract: Developing new metal hydrides is a critical step toward efficient hydrogen storage in carbon-neutral energy systems. However, existing materials databases, such as the Materials Project, contain a limited number of well-characterized hydrides, which co",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      },
+      {
+        "title": "Is Parameter Isolation Better for Prompt-Based Continual Learning?",
+        "link": "https://arxiv.org/abs/2601.20894",
+        "summary": "arXiv:2601.20894v1 Announce Type: new Abstract: Prompt-based continual learning methods effectively mitigate catastrophic forgetting. However, most existing methods assign a fixed set of prompts to each task, completely isolating knowledge across tasks and resulting in suboptimal parameter utilizati",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      },
+      {
+        "title": "Faster Predictive Coding Networks via Better Initialization",
+        "link": "https://arxiv.org/abs/2601.20895",
+        "summary": "arXiv:2601.20895v1 Announce Type: new Abstract: Research aimed at scaling up neuroscience inspired learning algorithms for neural networks is accelerating. Recently, a key research area has been the study of energy-based learning algorithms such as predictive coding, due to their versatility and mat",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      },
+      {
+        "title": "TwinWeaver: An LLM-Based Foundation Model Framework for Pan-Cancer Digital Twins",
+        "link": "https://arxiv.org/abs/2601.20906",
+        "summary": "arXiv:2601.20906v1 Announce Type: new Abstract: Precision oncology requires forecasting clinical events and trajectories, yet modeling sparse, multi-modal clinical time series remains a critical challenge. We introduce TwinWeaver, an open-source framework that serializes longitudinal patient histori",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      },
+      {
+        "title": "Noisy but Valid: Robust Statistical Evaluation of LLMs with Imperfect Judges",
+        "link": "https://arxiv.org/abs/2601.20913",
+        "summary": "arXiv:2601.20913v1 Announce Type: new Abstract: Reliable certification of Large Language Models (LLMs)-verifying that failure rates are below a safety threshold-is critical yet challenging. While \"LLM-as-a-Judge\" offers scalability, judge imperfections, noise, and bias can invalidate statistical gua",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      },
+      {
+        "title": "Noninvasive Intracranial Pressure Estimation Using Subspace System Identification and Bespoke Machine Learning Algorithms: A Learning-to-Rank Approach",
+        "link": "https://arxiv.org/abs/2601.20916",
+        "summary": "arXiv:2601.20916v1 Announce Type: new Abstract: Objective: Accurate noninvasive estimation of intracranial pressure (ICP) remains a major challenge in critical care. We developed a bespoke machine learning algorithm that integrates system identification and ranking-constrained optimization to estima",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      },
+      {
+        "title": "A Theory of Universal Agnostic Learning",
+        "link": "https://arxiv.org/abs/2601.20961",
+        "summary": "arXiv:2601.20961v1 Announce Type: new Abstract: We provide a complete theory of optimal universal rates for binary classification in the agnostic setting. This extends the realizable-case theory of Bousquet, Hanneke, Moran, van Handel, and Yehudayoff (2021) by removing the realizability assumption o",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      },
+      {
+        "title": "Monotone Optimisation with Learned Projections",
+        "link": "https://arxiv.org/abs/2601.20983",
+        "summary": "arXiv:2601.20983v1 Announce Type: new Abstract: Monotone optimisation problems admit specialised global solvers such as the Polyblock Outer Approximation (POA) algorithm, but these methods typically require explicit objective and constraint functions. In many applications, these functions are only a",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      }
+    ],
+    "arXiv CS.CV": [
+      {
+        "title": "MA-LipNet: Multi-Dimensional Attention Networks for Robust Lipreading",
+        "link": "https://arxiv.org/abs/2601.20881",
+        "summary": "arXiv:2601.20881v1 Announce Type: new Abstract: Lipreading, the technology of decoding spoken content from silent videos of lip movements, holds significant application value in fields such as public security. However, due to the subtle nature of articulatory gestures, existing lipreading methods of",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      },
+      {
+        "title": "Non-Markov Multi-Round Conversational Image Generation with History-Conditioned MLLMs",
+        "link": "https://arxiv.org/abs/2601.20911",
+        "summary": "arXiv:2601.20911v1 Announce Type: new Abstract: Conversational image generation requires a model to follow user instructions across multiple rounds of interaction, grounded in interleaved text and images that accumulate as chat history. While recent multimodal large language models (MLLMs) can gener",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      },
+      {
+        "title": "Text controllable PET denoising",
+        "link": "https://arxiv.org/abs/2601.20990",
+        "summary": "arXiv:2601.20990v1 Announce Type: new Abstract: Positron Emission Tomography (PET) imaging is a vital tool in medical diagnostics, offering detailed insights into molecular processes within the human body. However, PET images often suffer from complicated noise, which can obscure critical diagnostic",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      },
+      {
+        "title": "Low performing pixel correction in computed tomography with unrolled network and synthetic data training",
+        "link": "https://arxiv.org/abs/2601.20995",
+        "summary": "arXiv:2601.20995v1 Announce Type: new Abstract: Low performance pixels (LPP) in Computed Tomography (CT) detectors would lead to ring and streak artifacts in the reconstructed images, making them clinically unusable. In recent years, several solutions have been proposed to correct LPP artifacts, eit",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      },
+      {
+        "title": "AI-based Prediction of Biochemical Recurrence from Biopsy and Prostatectomy Samples",
+        "link": "https://arxiv.org/abs/2601.21022",
+        "summary": "arXiv:2601.21022v1 Announce Type: new Abstract: Biochemical recurrence (BCR) after radical prostatectomy (RP) is a surrogate marker for aggressive prostate cancer with adverse outcomes, yet current prognostic tools remain imprecise. We trained an AI-based model on diagnostic prostate biopsy slides f",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      },
+      {
+        "title": "BadDet+: Robust Backdoor Attacks for Object Detection",
+        "link": "https://arxiv.org/abs/2601.21066",
+        "summary": "arXiv:2601.21066v1 Announce Type: new Abstract: Backdoor attacks pose a severe threat to deep learning, yet their impact on object detection remains poorly understood compared to image classification. While attacks have been proposed, we identify critical weaknesses in existing detection-based metho",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      },
+      {
+        "title": "Towards Mitigating Modality Bias in Vision-Language Models for Temporal Action Localization",
+        "link": "https://arxiv.org/abs/2601.21078",
+        "summary": "arXiv:2601.21078v1 Announce Type: new Abstract: Temporal Action Localization (TAL) requires identifying both the boundaries and categories of actions in untrimmed videos. While vision-language models (VLMs) offer rich semantics to complement visual evidence, existing approaches tend to overemphasize",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      },
+      {
+        "title": "Shape of Thought: Progressive Object Assembly via Visual Chain-of-Thought",
+        "link": "https://arxiv.org/abs/2601.21081",
+        "summary": "arXiv:2601.21081v1 Announce Type: new Abstract: Multimodal models for text-to-image generation have achieved strong visual fidelity, yet they remain brittle under compositional structural constraints-notably generative numeracy, attribute binding, and part-level relations. To address these challenge",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      },
+      {
+        "title": "An AI Framework for Microanastomosis Motion Assessment",
+        "link": "https://arxiv.org/abs/2601.21120",
+        "summary": "arXiv:2601.21120v1 Announce Type: new Abstract: Proficiency in microanastomosis is a fundamental competency across multiple microsurgical disciplines. These procedures demand exceptional precision and refined technical skills, making effective, standardized assessment methods essential. Traditionall",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      },
+      {
+        "title": "Bidirectional Cross-Perception for Open-Vocabulary Semantic Segmentation in Remote Sensing Imagery",
+        "link": "https://arxiv.org/abs/2601.21159",
+        "summary": "arXiv:2601.21159v1 Announce Type: new Abstract: High-resolution remote sensing imagery is characterized by densely distributed land-cover objects and complex boundaries, which places higher demands on both geometric localization and semantic prediction. Existing training-free open-vocabulary semanti",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      }
+    ],
+    "arXiv CS.CL": [
+      {
+        "title": "DeepSearchQA: Bridging the Comprehensiveness Gap for Deep Research Agents",
+        "link": "https://arxiv.org/abs/2601.20975",
+        "summary": "arXiv:2601.20975v1 Announce Type: new Abstract: We introduce DeepSearchQA, a 900-prompt benchmark for evaluating agents on difficult multi-step information-seeking tasks across 17 different fields. Unlike traditional benchmarks that target single answer retrieval or broad-spectrum factuality, DeepSe",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      },
+      {
+        "title": "asr_eval: Algorithms and tools for multi-reference and streaming speech recognition evaluation",
+        "link": "https://arxiv.org/abs/2601.20992",
+        "summary": "arXiv:2601.20992v1 Announce Type: new Abstract: We propose several improvements to the speech recognition evaluation. First, we propose a string alignment algorithm that supports both multi-reference labeling, arbitrary-length insertions and better word alignment. This is especially useful for non-L",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      },
+      {
+        "title": "UrduBench: An Urdu Reasoning Benchmark using Contextually Ensembled Translations with Human-in-the-Loop",
+        "link": "https://arxiv.org/abs/2601.21000",
+        "summary": "arXiv:2601.21000v1 Announce Type: new Abstract: Recent advances in large language models (LLMs) have led to strong reasoning capabilities; however, evaluating such models in low-resource languages remains challenging due to the lack of standardized benchmarks. In particular, Urdu reasoning evaluatio",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      },
+      {
+        "title": "Position-invariant Fine-tuning of Speech Enhancement Models with Self-supervised Speech Representations",
+        "link": "https://arxiv.org/abs/2601.21084",
+        "summary": "arXiv:2601.21084v1 Announce Type: new Abstract: Integrating front-end speech enhancement (SE) models with self-supervised learning (SSL)-based speech models is effective for downstream tasks in noisy conditions. SE models are commonly fine-tuned using SSL representations with mean squared error (MSE",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      },
+      {
+        "title": "ChunkWise LoRA: Adaptive Sequence Partitioning for Memory-Efficient Low-Rank Adaptation and Accelerated LLM Inference",
+        "link": "https://arxiv.org/abs/2601.21109",
+        "summary": "arXiv:2601.21109v1 Announce Type: new Abstract: Recent advances in low-rank adaptation (LoRA) have enabled efficient fine-tuning of large language models (LLMs) with minimal additional parameters. However, existing LoRA methods apply static rank configurations uniformly across all input tokens, igno",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      },
+      {
+        "title": "Multi-task Code LLMs: Data Mix or Model Merge?",
+        "link": "https://arxiv.org/abs/2601.21115",
+        "summary": "arXiv:2601.21115v1 Announce Type: new Abstract: Recent research advocates deploying smaller, specialized code LLMs in agentic frameworks alongside frontier models, sparking interest in efficient strategies for multi-task learning that balance performance, constraints, and costs. We compare two appro",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      },
+      {
+        "title": "Large Language Models Naively Recover Ethnicity from Individual Records",
+        "link": "https://arxiv.org/abs/2601.21132",
+        "summary": "arXiv:2601.21132v1 Announce Type: new Abstract: I demonstrate that large language models can infer ethnicity from names with accuracy exceeding that of Bayesian Improved Surname Geocoding (BISG) without additional training data, enabling inference outside the United States and to contextually approp",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      },
+      {
+        "title": "EnsembleLink: Accurate Record Linkage Without Training Data",
+        "link": "https://arxiv.org/abs/2601.21138",
+        "summary": "arXiv:2601.21138v1 Announce Type: new Abstract: Record linkage, the process of matching records that refer to the same entity across datasets, is essential to empirical social science but remains methodologically underdeveloped. Researchers treat it as a preprocessing step, applying ad hoc rules wit",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      },
+      {
+        "title": "Output-Space Search: Targeting LLM Generations in a Frozen Encoder-Defined Output Space",
+        "link": "https://arxiv.org/abs/2601.21169",
+        "summary": "arXiv:2601.21169v1 Announce Type: new Abstract: We introduce Output-Space Search (OS-Search), which turns LLM generation into endpoint search. An outer loop selects a target z* in a frozen encoder-defined 3D output space Z, and a retrieval-grounded policy trained with sequence-level RL generates out",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      },
+      {
+        "title": "From Linear Input to Hierarchical Structure: Function Words as Statistical Cues for Language Learning",
+        "link": "https://arxiv.org/abs/2601.21191",
+        "summary": "arXiv:2601.21191v1 Announce Type: new Abstract: What statistical conditions support learning hierarchical structure from linear input? In this paper, we address this question by focusing on the statistical distribution of function words. Function words have long been argued to play a crucial role in",
+        "published": "Fri, 30 Jan 2026 00:00:00 -0500"
+      }
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "cold_email_with_job": "Subject: Application for {job_title} - {your_name}\n\nHi {recruiter_name},\n\nI came across the {job_title} position at {company} and I'm excited about the opportunity.\n\nWhy I'm a great fit:\n\u2022 Recently completed AI/ML certification from GUVI\n\u2022 Built {project_name} that achieved {result}\n\u2022 Strong foundation in {key_skills}\n\nWhat caught my attention: {specific_detail}\n\nI've attached my resume and would love to discuss how I can contribute to {team_name}.\n\nBest regards,\n{your_name}\n{contact_info}",
+  "connection_request": "Hi {recruiter_name},\n\nNoticed you recruit for AI/ML roles at {company}. I recently completed my AI/ML certification from GUVI and I'm actively sharing my journey on LinkedIn.\n\nWould love to connect!\n\nBest,\n{your_name}",
+  "follow_up_1_week": "Subject: Following up - {job_title} Application\n\nHi {recruiter_name},\n\nFollowing up on my application from last week.\n\nSince then, I've {recent_achievement}.\n\nStill very interested! Any update on the timeline?\n\nBest,\n{your_name}"
+}

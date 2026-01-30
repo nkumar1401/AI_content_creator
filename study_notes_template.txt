@@ -1,0 +1,20 @@
+=== STUDY NOTES TEMPLATE ===
+Date: 2026-01-29
+
+TOPIC: [What you studied]
+
+KEY LEARNINGS:
+1. 
+2. 
+3. 
+
+BREAKTHROUGH MOMENT:
+[What finally clicked?]
+
+PRACTICAL APPLICATION:
+[How can this be used?]
+
+POST POTENTIAL: [Yes/No]
+
+NEXT STEPS:
+[What to learn next?]

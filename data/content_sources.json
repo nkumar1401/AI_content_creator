@@ -1,0 +1,23 @@
+{
+  "youtube": {
+    "Two Minute Papers": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg",
+    "Yannic Kilcher": "https://www.youtube.com/feeds/videos.xml?channel_id=UCZHmQk67mSJgfCCTn7xBfew",
+    "AI Explained": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNJ1Ymd5yFuUPtn21xtRbbw",
+    "Sentdex": "https://www.youtube.com/feeds/videos.xml?channel_id=UCfzlCWGWYyIQ0aLC5w48gBQ"
+  },
+  "reddit": {
+    "r/MachineLearning": "https://www.reddit.com/r/MachineLearning/.rss",
+    "r/artificial": "https://www.reddit.com/r/artificial/.rss",
+    "r/LocalLLaMA": "https://www.reddit.com/r/LocalLLaMA/.rss"
+  },
+  "blogs": {
+    "OpenAI Blog": "https://openai.com/blog/rss.xml",
+    "Google AI Blog": "https://blog.research.google/feeds/posts/default",
+    "Hugging Face": "https://huggingface.co/blog/feed.xml",
+    "NVIDIA Blog": "https://blogs.nvidia.com/feed/"
+  },
+  "news": {
+    "VentureBeat AI": "https://venturebeat.com/category/ai/feed/",
+    "TechCrunch AI": "https://techcrunch.com/category/artificial-intelligence/feed/"
+  }
+}

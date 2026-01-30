@@ -1,0 +1,44 @@
+
+=== RECRUITER TRACKING SHEET ===
+
+Date: 2026-01-30
+
+RECRUITER INFORMATION:
+Name: 
+Company: 
+Title: 
+LinkedIn URL: 
+Email: (if found)
+Location: 
+
+OUTREACH DETAILS:
+Connection Request Sent: [Date]
+Connection Accepted: [Date]
+First Email Sent: [Date]
+Email Subject: 
+Response Received: [Yes/No]
+Response Date: 
+Follow-up Dates: 
+
+JOB DETAILS:
+Role Applied For: 
+Job Post URL: 
+Application Date: 
+Status: [Applied / In Review / Interview Scheduled / Rejected / Offer]
+
+NOTES:
+- Recruiter's interests/posts: 
+- Common connections: 
+- Best approach: 
+- Follow-up strategy: 
+
+NEXT STEPS:
+[ ] Send connection request
+[ ] Send personalized message
+[ ] Send email
+[ ] Follow up (1 week)
+[ ] Follow up (2 weeks)
+[ ] Apply to job
+[ ] Thank you note
+
+---
